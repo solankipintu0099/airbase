@@ -435,7 +435,7 @@ For a multi-module project, all other sub-modules must have this explicitly set 
 ```
 
 must be added to each pom. This is a limitation of the Maven multi-module build process (see http://stackoverflow.com/questions/1012402/maven2-property-that-indicates-the-parent-directory for details).
-
+.
 
 
 ## Deploy profiles
